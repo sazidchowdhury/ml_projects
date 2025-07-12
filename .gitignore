@@ -64,3 +64,37 @@ dmypy.json
 
 # Other
 *.orig
+
+# Secrets and credentials
+secrets.json
+credentials.json
+config.ini
+config.yaml
+*.pem
+*.key
+
+# Database files
+*.db
+*.mdb
+*.accdb
+
+# Executables and DLLs
+*.exe
+*.dll
+
+# Temporary files
+*~
+*.swp
+*.swo
+*.tmp
+*.bak
+
+# Logs folder
+logs/
+
+# Jupyter extensions
+.jupyter/
+
+# Docker overrides and env files
+docker-compose.override.yml
+.env.docker
