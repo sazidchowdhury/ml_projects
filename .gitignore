@@ -13,7 +13,7 @@ build/
 *.egg
 
 # Virtual environments
-clm_env/
+mlm_env/
 venv/
 env/
 ENV/
