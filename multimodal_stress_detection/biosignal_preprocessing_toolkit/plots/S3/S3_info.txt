@@ -1,0 +1,4 @@
+ECG: 4545100 samples → 6493.0 s
+BVP: 415552 samples → 6493.0 s
+EDA: 25972 samples → 6493.0 s
+Labels present: Yes
