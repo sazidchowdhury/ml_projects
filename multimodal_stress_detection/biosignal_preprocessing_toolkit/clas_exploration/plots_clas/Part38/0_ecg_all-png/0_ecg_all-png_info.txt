@@ -1,0 +1,4 @@
+File: ../../../../Datasets/CLAS/Participants/Part38\all_separate\0_ecg_all-png.csv
+Type: ecg, FS: 256 Hz
+ecg1: 3075 samples → 12.0 s
+ecg2: 3075 samples → 12.0 s

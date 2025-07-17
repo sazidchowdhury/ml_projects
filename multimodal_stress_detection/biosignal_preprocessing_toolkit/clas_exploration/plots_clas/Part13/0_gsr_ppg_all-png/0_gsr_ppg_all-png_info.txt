@@ -1,0 +1,3 @@
+File: ../../../../Datasets/CLAS/Participants/Part13\all_separate\0_gsr_ppg_all-png.csv
+Type: eda, FS: 128 Hz
+gsr: 2938 samples → 23.0 s
